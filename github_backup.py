@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-GitHub Repo Backup Tool — Premium Terminal UI
+GitHub Repo Backup Tool 
 ------------------------------------------------
 Clones every repo (public + private) belonging to a GitHub account into
 ./{username}_backup/
